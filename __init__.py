@@ -1,1 +1,1 @@
-from . import neurone_tools
+from .neurone_tools import neurone_tools

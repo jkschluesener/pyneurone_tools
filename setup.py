@@ -18,7 +18,7 @@ if __name__ == "__main__":
 
     setuptools.setup(
         name="neurone_tools",
-        version_format="{tag}",
+        version="1.1",
         url="https://github.com/jkschluesener/pyneurone_tools",
         author="Jan K. Schluesener",
         author_email="code@jkschluesener.xyz",
